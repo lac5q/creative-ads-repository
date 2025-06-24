@@ -1,0 +1,31 @@
+# 10_Fathers_Day_Turn_Royal_V2 - Creative Asset Placeholder
+
+## 📊 **Performance Metrics**
+- **CVR:** 1.98%
+- **CPA:** $51.00
+- **Total Spend:** $42.0
+- **Priority:** 🟡 TEST SCALE
+
+## 🎬 **Creative Details**
+- **Account:** TurnedYellow
+- **Ad ID:** 120225301124690108
+- **Creative Type:** VIDEO
+- **Hook Type:** Transformation
+
+## 📝 **Notes**
+Turn me Royal V2 - Bring a smile
+
+## 📥 **Download Instructions**
+1. Go to Facebook Business Manager → Ads Manager
+2. Filter by account: **TurnedYellow**
+3. Search for Ad ID: **120225301124690108**
+4. Download creative and save as: `10_Fathers_Day_Turn_Royal_V2.mp4`
+5. Upload to this GitHub location
+
+## 🔗 **GitHub URLs**
+- **Asset File:** `https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2.mp4`
+- **Raw File:** `https://github.com/lac5q/creative-ads-repository/raw/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2.mp4`
+
+---
+*Created: June 24, 2025*
+*Status: Awaiting Download*
