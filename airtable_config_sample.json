@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_AIRTABLE_PERSONAL_ACCESS_TOKEN",
+  "base_id": "YOUR_BASE_ID_STARTS_WITH_app",
+  "table_name": "Creative Ads Performance"
+}

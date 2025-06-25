@@ -1,0 +1,345 @@
+{
+  "timestamp": "2025-06-24T12:55:49.922372",
+  "csv_file": "Complete_Airtable_Creative_Ads_FIXED_2025-06-24.csv",
+  "total_checked": 20,
+  "valid_count": 3,
+  "invalid_count": 17,
+  "success_rate": 15.0,
+  "results": [
+    {
+      "ad_name": "01_David_Influencer_WINNER",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/video_influencer_David__Most_incredible_PLACEHOLDER.md",
+      "status_code": 200,
+      "status_text": "✅ VALID",
+      "is_valid": true,
+      "row_number": 2,
+      "error": null
+    },
+    {
+      "ad_name": "02_TY_Video_1_HIGH_HOOK",
+      "url": "https://github.com/lac5q/creative-ads-repository/tree/main/TurnedYellow",
+      "status_code": 200,
+      "status_text": "✅ VALID",
+      "is_valid": true,
+      "row_number": 3,
+      "error": null
+    },
+    {
+      "ad_name": "03_Royal_Inspo_Hook_STRONG",
+      "url": "https://github.com/lac5q/creative-ads-repository/tree/main/TurnedYellow",
+      "status_code": 200,
+      "status_text": "✅ VALID",
+      "is_valid": true,
+      "row_number": 4,
+      "error": null
+    },
+    {
+      "ad_name": "04_Early_BF_Gifs_Boomerangs",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/04_Early_BF_Gifs_Boomerangs.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 5,
+      "error": null
+    },
+    {
+      "ad_name": "05_Fathers_Day_Video_2025",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/05_Fathers_Day_Video_2025.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 6,
+      "error": null
+    },
+    {
+      "ad_name": "06_Fathers_Day_AI_VO_ACTIVE",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/06_Fathers_Day_AI_VO_ACTIVE.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 7,
+      "error": null
+    },
+    {
+      "ad_name": "07_Us_vs_Them_Comparison",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/07_Us_vs_Them_Comparison.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 8,
+      "error": null
+    },
+    {
+      "ad_name": "08_Kids_React_Video_EDITED",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/08_Kids_React_Video_EDITED.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 9,
+      "error": null
+    },
+    {
+      "ad_name": "09_Fathers_Day_Turn_Royal_V1",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/09_Fathers_Day_Turn_Royal_V1.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 10,
+      "error": null
+    },
+    {
+      "ad_name": "10_Fathers_Day_Turn_Royal_V2",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 11,
+      "error": null
+    },
+    {
+      "ad_name": "11_Birthday_Hook_Agency_WINNER",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/11_Birthday_Hook_Agency_WINNER.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 12,
+      "error": null
+    },
+    {
+      "ad_name": "12_FD_2_Remake_Long_Time_Ago",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/12_FD_2_Remake_Long_Time_Ago.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 13,
+      "error": null
+    },
+    {
+      "ad_name": "13_Fathers_Day_Edited_S1_2025",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/13_Fathers_Day_Edited_S1_2025.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 14,
+      "error": null
+    },
+    {
+      "ad_name": "14_Fathers_Day_Portrait_GIF",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/14_Fathers_Day_Portrait_GIF.gif",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 15,
+      "error": null
+    },
+    {
+      "ad_name": "15_Early_BF_75_Percent_Off",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/15_Early_BF_75_Percent_Off.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 16,
+      "error": null
+    },
+    {
+      "ad_name": "16_Replicate_Winning_V1_PDP",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/16_Replicate_Winning_V1_PDP.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 17,
+      "error": null
+    },
+    {
+      "ad_name": "17_Replicate_Winning_V2_PDP",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/17_Replicate_Winning_V2_PDP.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 18,
+      "error": null
+    },
+    {
+      "ad_name": "18_Valentines_Day_Reaction",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/18_Valentines_Day_Reaction.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 19,
+      "error": null
+    },
+    {
+      "ad_name": "19_BF_3_Remake_Make_Laugh",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/19_BF_3_Remake_Make_Laugh.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 20,
+      "error": null
+    },
+    {
+      "ad_name": "20_Fathers_Day_Mashup_2024",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/20_Fathers_Day_Mashup_2024.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 21,
+      "error": null
+    }
+  ],
+  "broken_links": [
+    {
+      "ad_name": "04_Early_BF_Gifs_Boomerangs",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/04_Early_BF_Gifs_Boomerangs.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 5,
+      "error": null
+    },
+    {
+      "ad_name": "05_Fathers_Day_Video_2025",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/05_Fathers_Day_Video_2025.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 6,
+      "error": null
+    },
+    {
+      "ad_name": "06_Fathers_Day_AI_VO_ACTIVE",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/06_Fathers_Day_AI_VO_ACTIVE.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 7,
+      "error": null
+    },
+    {
+      "ad_name": "07_Us_vs_Them_Comparison",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/07_Us_vs_Them_Comparison.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 8,
+      "error": null
+    },
+    {
+      "ad_name": "08_Kids_React_Video_EDITED",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/08_Kids_React_Video_EDITED.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 9,
+      "error": null
+    },
+    {
+      "ad_name": "09_Fathers_Day_Turn_Royal_V1",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/09_Fathers_Day_Turn_Royal_V1.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 10,
+      "error": null
+    },
+    {
+      "ad_name": "10_Fathers_Day_Turn_Royal_V2",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 11,
+      "error": null
+    },
+    {
+      "ad_name": "11_Birthday_Hook_Agency_WINNER",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/11_Birthday_Hook_Agency_WINNER.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 12,
+      "error": null
+    },
+    {
+      "ad_name": "12_FD_2_Remake_Long_Time_Ago",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/12_FD_2_Remake_Long_Time_Ago.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 13,
+      "error": null
+    },
+    {
+      "ad_name": "13_Fathers_Day_Edited_S1_2025",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/13_Fathers_Day_Edited_S1_2025.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 14,
+      "error": null
+    },
+    {
+      "ad_name": "14_Fathers_Day_Portrait_GIF",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/14_Fathers_Day_Portrait_GIF.gif",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 15,
+      "error": null
+    },
+    {
+      "ad_name": "15_Early_BF_75_Percent_Off",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/15_Early_BF_75_Percent_Off.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 16,
+      "error": null
+    },
+    {
+      "ad_name": "16_Replicate_Winning_V1_PDP",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/16_Replicate_Winning_V1_PDP.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 17,
+      "error": null
+    },
+    {
+      "ad_name": "17_Replicate_Winning_V2_PDP",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/17_Replicate_Winning_V2_PDP.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 18,
+      "error": null
+    },
+    {
+      "ad_name": "18_Valentines_Day_Reaction",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/18_Valentines_Day_Reaction.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 19,
+      "error": null
+    },
+    {
+      "ad_name": "19_BF_3_Remake_Make_Laugh",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/19_BF_3_Remake_Make_Laugh.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 20,
+      "error": null
+    },
+    {
+      "ad_name": "20_Fathers_Day_Mashup_2024",
+      "url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/20_Fathers_Day_Mashup_2024.mp4",
+      "status_code": 404,
+      "status_text": "❌ NOT FOUND (404)",
+      "is_valid": false,
+      "row_number": 21,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "base_name": "Creative Ads Performance Tracker",
+  "table_name": "Creative Ads",
+  "fields": [
+    {
+      "name": "Ad Name",
+      "type": "Single line text",
+      "description": "Clean ad name without underscores"
+    },
+    {
+      "name": "Account",
+      "type": "Single select",
+      "options": [
+        "TurnedYellow",
+        "MakeMeJedi"
+      ],
+      "description": "Facebook ad account"
+    },
+    {
+      "name": "Ad ID",
+      "type": "Single line text",
+      "description": "Facebook Ad ID for reference"
+    },
+    {
+      "name": "Creative Type",
+      "type": "Single select",
+      "options": [
+        "VIDEO",
+        "GIF",
+        "IMAGE"
+      ],
+      "description": "Type of creative asset"
+    },
+    {
+      "name": "Priority",
+      "type": "Single select",
+      "options": [
+        "\ud83e\udd47 SCALE IMMEDIATELY",
+        "\ud83e\udd48 SCALE EXCELLENT",
+        "\ud83d\udfe1 TEST SCALE",
+        "\ud83d\udd34 CURRENTLY ACTIVE",
+        "\ud83d\udd35 ARCHIVE WINNER"
+      ],
+      "description": "Business priority level"
+    },
+    {
+      "name": "Priority Score",
+      "type": "Number",
+      "description": "Numeric priority for sorting (5=highest)"
+    },
+    {
+      "name": "CVR (%)",
+      "type": "Number",
+      "format": "Percent",
+      "description": "Conversion rate percentage"
+    },
+    {
+      "name": "CPA ($)",
+      "type": "Currency",
+      "description": "Cost per acquisition"
+    },
+    {
+      "name": "Spend ($)",
+      "type": "Currency",
+      "description": "Total ad spend"
+    },
+    {
+      "name": "Performance Rating",
+      "type": "Single select",
+      "options": [
+        "\ud83d\udd25 EXCEPTIONAL",
+        "\u2b50 EXCELLENT",
+        "\u2705 GOOD",
+        "\u26a0\ufe0f AVERAGE",
+        "\ud83d\udd3b LOW"
+      ],
+      "description": "Performance category based on CVR"
+    },
+    {
+      "name": "ROI Category",
+      "type": "Single select",
+      "options": [
+        "\ud83d\udcb0 HIGH ROI",
+        "\ud83d\udc9a PROFITABLE",
+        "\ud83d\udcc8 SCALING",
+        "\ud83d\udd0d TESTING"
+      ],
+      "description": "ROI category based on CVR and CPA"
+    },
+    {
+      "name": "Hook Type",
+      "type": "Single line text",
+      "description": "Specific hook strategy used"
+    },
+    {
+      "name": "Hook Category",
+      "type": "Single select",
+      "options": [
+        "\ud83d\udc9d EMOTIONAL",
+        "\ud83d\udc51 AUTHORITY",
+        "\u26a1 URGENCY",
+        "\ud83c\udfa8 CREATIVE",
+        "\ud83d\udccb OTHER"
+      ],
+      "description": "Hook category for filtering"
+    },
+    {
+      "name": "Campaign Season",
+      "type": "Single select",
+      "options": [
+        "Father's Day",
+        "Valentine's Day",
+        "Black Friday",
+        "Birthday",
+        "Christmas",
+        "Holiday",
+        "Year-Round"
+      ],
+      "description": "Seasonal campaign type"
+    },
+    {
+      "name": "Action Required",
+      "type": "Single line text",
+      "description": "Recommended next action"
+    },
+    {
+      "name": "Notes",
+      "type": "Long text",
+      "description": "Additional insights and notes"
+    },
+    {
+      "name": "GitHub Asset URL",
+      "type": "URL",
+      "description": "Direct link to GitHub asset page"
+    },
+    {
+      "name": "GitHub Raw URL",
+      "type": "URL",
+      "description": "Direct download link for video file"
+    },
+    {
+      "name": "Download Status",
+      "type": "Single select",
+      "options": [
+        "PENDING",
+        "DOWNLOADED",
+        "UPLOADED",
+        "COMPLETE"
+      ],
+      "description": "Current download status"
+    },
+    {
+      "name": "Video File Extension",
+      "type": "Single line text",
+      "description": "File extension for download"
+    },
+    {
+      "name": "Created Date",
+      "type": "Date",
+      "description": "Date record was created"
+    },
+    {
+      "name": "Last Updated",
+      "type": "Date",
+      "description": "Last modification timestamp"
+    }
+  ],
+  "views": [
+    {
+      "name": "\ud83e\udd47 Priority Actions",
+      "type": "Grid",
+      "filter": "Priority Score >= 4",
+      "sort": "Priority Score (descending)"
+    },
+    {
+      "name": "\ud83d\udcca Performance Dashboard",
+      "type": "Grid",
+      "sort": "CVR (%) (descending)"
+    },
+    {
+      "name": "\ud83d\udcb0 High ROI Ads",
+      "type": "Grid",
+      "filter": "ROI Category = 'HIGH ROI' OR ROI Category = 'PROFITABLE'"
+    },
+    {
+      "name": "\ud83c\udfac By Creative Type",
+      "type": "Grid",
+      "group": "Creative Type"
+    },
+    {
+      "name": "\ud83d\udcc5 By Season",
+      "type": "Grid",
+      "group": "Campaign Season"
+    },
+    {
+      "name": "\ud83d\udce5 Download Tracker",
+      "type": "Kanban",
+      "group": "Download Status"
+    }
+  ]
+}

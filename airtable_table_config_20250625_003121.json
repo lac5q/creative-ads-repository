@@ -1,0 +1,288 @@
+{
+  "fields": [
+    {
+      "name": "Name",
+      "type": "singleLineText"
+    },
+    {
+      "name": "Brand",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "TurnedYellow",
+            "color": "yellowBright"
+          },
+          {
+            "name": "MakeMeJedi",
+            "color": "greenBright"
+          },
+          {
+            "name": "TurnedWizard",
+            "color": "purpleBright"
+          },
+          {
+            "name": "TurnedThrones",
+            "color": "redBright"
+          },
+          {
+            "name": "HoliFrog",
+            "color": "blueBright"
+          },
+          {
+            "name": "Portrified",
+            "color": "orangeBright"
+          },
+          {
+            "name": "TurnSuperHero",
+            "color": "pinkBright"
+          },
+          {
+            "name": "TurnedToAnime",
+            "color": "grayBright"
+          },
+          {
+            "name": "Unknown",
+            "color": "gray"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Creative_Type",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "video",
+            "color": "red"
+          },
+          {
+            "name": "image",
+            "color": "blue"
+          },
+          {
+            "name": "gif",
+            "color": "orange"
+          },
+          {
+            "name": "dynamic",
+            "color": "purple"
+          },
+          {
+            "name": "carousel",
+            "color": "green"
+          },
+          {
+            "name": "unknown",
+            "color": "gray"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Performance_Tier",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "\ud83e\udd47 WINNER",
+            "color": "yellow"
+          },
+          {
+            "name": "\ud83e\udd48 HIGH PERFORMER",
+            "color": "orange"
+          },
+          {
+            "name": "\ud83e\udd49 GOOD PERFORMER",
+            "color": "green"
+          },
+          {
+            "name": "\ud83d\udc9d SEASONAL",
+            "color": "pink"
+          },
+          {
+            "name": "\ud83d\udc68 FATHERS DAY",
+            "color": "blue"
+          },
+          {
+            "name": "\ud83d\udc69 MOTHERS DAY",
+            "color": "purple"
+          },
+          {
+            "name": "Standard",
+            "color": "gray"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Campaign_ID",
+      "type": "singleLineText"
+    },
+    {
+      "name": "File_Size_KB",
+      "type": "number",
+      "options": {
+        "precision": 2
+      }
+    },
+    {
+      "name": "Created_Date",
+      "type": "date",
+      "options": {
+        "dateFormat": {
+          "name": "iso"
+        }
+      }
+    },
+    {
+      "name": "Days_Ago",
+      "type": "number"
+    },
+    {
+      "name": "Directory_Source",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "hd_ad_creatives",
+            "color": "red"
+          },
+          {
+            "name": "large_ad_images",
+            "color": "orange"
+          },
+          {
+            "name": "creative-ads-repository",
+            "color": "yellow"
+          },
+          {
+            "name": "sample_ad_creatives",
+            "color": "green"
+          },
+          {
+            "name": "actual_turnedyellow_ads",
+            "color": "blue"
+          },
+          {
+            "name": ".",
+            "color": "gray"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GitHub_Download_Link",
+      "type": "url"
+    },
+    {
+      "name": "GitHub_View_Link",
+      "type": "url"
+    },
+    {
+      "name": "File_Type",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "jpg",
+            "color": "blue"
+          },
+          {
+            "name": "jpeg",
+            "color": "blue"
+          },
+          {
+            "name": "png",
+            "color": "green"
+          },
+          {
+            "name": "gif",
+            "color": "orange"
+          },
+          {
+            "name": "mp4",
+            "color": "red"
+          },
+          {
+            "name": "mov",
+            "color": "purple"
+          },
+          {
+            "name": "webp",
+            "color": "gray"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quality_Priority",
+      "type": "number"
+    },
+    {
+      "name": "Notes",
+      "type": "longText"
+    },
+    {
+      "name": "Status",
+      "type": "singleSelect",
+      "options": {
+        "choices": [
+          {
+            "name": "Active",
+            "color": "green"
+          },
+          {
+            "name": "Archive",
+            "color": "gray"
+          },
+          {
+            "name": "Review",
+            "color": "yellow"
+          },
+          {
+            "name": "Priority",
+            "color": "red"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tags",
+      "type": "multipleSelects",
+      "options": {
+        "choices": [
+          {
+            "name": "High Performer",
+            "color": "green"
+          },
+          {
+            "name": "Winner",
+            "color": "yellow"
+          },
+          {
+            "name": "Seasonal",
+            "color": "pink"
+          },
+          {
+            "name": "Fathers Day",
+            "color": "blue"
+          },
+          {
+            "name": "Mothers Day",
+            "color": "purple"
+          },
+          {
+            "name": "Recent",
+            "color": "orange"
+          },
+          {
+            "name": "HD Quality",
+            "color": "red"
+          }
+        ]
+      }
+    }
+  ]
+}

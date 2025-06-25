@@ -1,0 +1,14 @@
+{
+  "total_records": 20,
+  "successful_uploads": 0,
+  "failed_uploads": 20,
+  "success_rate": 0.0,
+  "errors": [
+    "Batch 1 failed: HTTP 422 - {\"error\":{\"type\":\"UNKNOWN_FIELD_NAME\",\"message\":\"Unknown field name: \\\"Ad Name\\\"\"}}",
+    "Batch 2 failed: HTTP 422 - {\"error\":{\"type\":\"UNKNOWN_FIELD_NAME\",\"message\":\"Unknown field name: \\\"Ad Name\\\"\"}}"
+  ],
+  "timestamp": "2025-06-24T13:53:54.012330",
+  "csv_file": "Complete_Airtable_Creative_Ads_GITHUB_FIXED_2025-06-24.csv",
+  "table_name": "Creative Ads Performance",
+  "base_id": "appGnEqmyR9ksaBl0"
+}

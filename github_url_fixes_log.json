@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-06-24T12:56:58.548011",
+  "input_file": "Complete_Airtable_Creative_Ads_FIXED_2025-06-24.csv",
+  "output_file": "Complete_Airtable_Creative_Ads_GITHUB_FIXED_2025-06-24.csv",
+  "total_fixes": 17,
+  "fixes": [
+    {
+      "ad_name": "04_Early_BF_Gifs_Boomerangs",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/04_Early_BF_Gifs_Boomerangs.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/04_Early_BF_Gifs_Boomerangs_PLACEHOLDER.md",
+      "row_number": 5
+    },
+    {
+      "ad_name": "05_Fathers_Day_Video_2025",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/05_Fathers_Day_Video_2025.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/05_Fathers_Day_Video_2025_PLACEHOLDER.md",
+      "row_number": 6
+    },
+    {
+      "ad_name": "06_Fathers_Day_AI_VO_ACTIVE",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/06_Fathers_Day_AI_VO_ACTIVE.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/06_Fathers_Day_AI_VO_ACTIVE_PLACEHOLDER.md",
+      "row_number": 7
+    },
+    {
+      "ad_name": "07_Us_vs_Them_Comparison",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/07_Us_vs_Them_Comparison.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/07_Us_vs_Them_Comparison_PLACEHOLDER.md",
+      "row_number": 8
+    },
+    {
+      "ad_name": "08_Kids_React_Video_EDITED",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/08_Kids_React_Video_EDITED.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/08_Kids_React_Video_EDITED_PLACEHOLDER.md",
+      "row_number": 9
+    },
+    {
+      "ad_name": "09_Fathers_Day_Turn_Royal_V1",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/09_Fathers_Day_Turn_Royal_V1.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/09_Fathers_Day_Turn_Royal_V1_PLACEHOLDER.md",
+      "row_number": 10
+    },
+    {
+      "ad_name": "10_Fathers_Day_Turn_Royal_V2",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/TurnedYellow/10_Fathers_Day_Turn_Royal_V2_PLACEHOLDER.md",
+      "row_number": 11
+    },
+    {
+      "ad_name": "11_Birthday_Hook_Agency_WINNER",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/11_Birthday_Hook_Agency_WINNER.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/11_Birthday_Hook_Agency_WINNER_PLACEHOLDER.md",
+      "row_number": 12
+    },
+    {
+      "ad_name": "12_FD_2_Remake_Long_Time_Ago",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/12_FD_2_Remake_Long_Time_Ago.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/12_FD_2_Remake_Long_Time_Ago_PLACEHOLDER.md",
+      "row_number": 13
+    },
+    {
+      "ad_name": "13_Fathers_Day_Edited_S1_2025",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/13_Fathers_Day_Edited_S1_2025.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/13_Fathers_Day_Edited_S1_2025_PLACEHOLDER.md",
+      "row_number": 14
+    },
+    {
+      "ad_name": "14_Fathers_Day_Portrait_GIF",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/14_Fathers_Day_Portrait_GIF.gif",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/14_Fathers_Day_Portrait_GIF_PLACEHOLDER.md",
+      "row_number": 15
+    },
+    {
+      "ad_name": "15_Early_BF_75_Percent_Off",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/15_Early_BF_75_Percent_Off.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/15_Early_BF_75_Percent_Off_PLACEHOLDER.md",
+      "row_number": 16
+    },
+    {
+      "ad_name": "16_Replicate_Winning_V1_PDP",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/16_Replicate_Winning_V1_PDP.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/16_Replicate_Winning_V1_PDP_PLACEHOLDER.md",
+      "row_number": 17
+    },
+    {
+      "ad_name": "17_Replicate_Winning_V2_PDP",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/17_Replicate_Winning_V2_PDP.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/17_Replicate_Winning_V2_PDP_PLACEHOLDER.md",
+      "row_number": 18
+    },
+    {
+      "ad_name": "18_Valentines_Day_Reaction",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/18_Valentines_Day_Reaction.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/18_Valentines_Day_Reaction_PLACEHOLDER.md",
+      "row_number": 19
+    },
+    {
+      "ad_name": "19_BF_3_Remake_Make_Laugh",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/19_BF_3_Remake_Make_Laugh.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/19_BF_3_Remake_Make_Laugh_PLACEHOLDER.md",
+      "row_number": 20
+    },
+    {
+      "ad_name": "20_Fathers_Day_Mashup_2024",
+      "original_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/20_Fathers_Day_Mashup_2024.mp4",
+      "corrected_url": "https://github.com/lac5q/creative-ads-repository/blob/main/MakeMeJedi/20_Fathers_Day_Mashup_2024_PLACEHOLDER.md",
+      "row_number": 21
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "upload_timestamp": "2025-06-24T13:28:41.276961",
+  "total_records": 20,
+  "uploaded_records": 20,
+  "success_rate": "100.0%",
+  "base_id": "appGnEqmyR9ksaBl0",
+  "table_name": "Creative Ads Performance",
+  "source_file": "Complete_Airtable_Creative_Ads_GITHUB_FIXED_2025-06-24.csv",
+  "github_urls_fixed": true,
+  "data_cleaning_applied": true,
+  "field_mapping": "Name + Notes (comprehensive)"
+}

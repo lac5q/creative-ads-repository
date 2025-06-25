@@ -1,0 +1,71 @@
+{
+  "mcpServers": {
+    "ampersand-docs": {
+      "command": "npx",
+      "args": ["@amp-labs/mcp-docs-server@latest"],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "dataforseo": {
+      "command": "npx",
+      "args": ["@skobyn/mcp-dataforseo"],
+      "env": {
+        "DATAFORSEO_USERNAME": "luis@epiloguecapital.com",
+        "DATAFORSEO_PASSWORD": "2e0edaebcc9b3756",
+        "NODE_ENV": "production"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "google-ads": {
+      "command": "python",
+      "args": ["./google-ads-mcp/google_ads_mcp_server/server.py"],
+      "env": {
+        "GOOGLE_ADS_DEVELOPER_TOKEN": "AaCT_HsJ9JMHOwLJvKMsaA",
+        "GOOGLE_ADS_CLIENT_ID": "498217939698-hvpan6eue1ibg7smc6s7gu5ds2dibg2o.apps.googleusercontent.com",
+        "GOOGLE_ADS_CLIENT_SECRET": "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",
+        "GOOGLE_ADS_REFRESH_TOKEN": "1//06UVceR8mr_bRCgYIARAAGAYSNwF-L9IrDBVsUsvJKAwp-3djbOPfI5iB64YQiIZKJcAyr2W3QXO52DENYcmEr-l2q6EMmzwx2ss",
+        "GOOGLE_ADS_CUSTOMER_ID": "3758980392",
+        "GOOGLE_ADS_LOGIN_CUSTOMER_ID": "5597699519",
+        "APP_ENV": "dev"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "facebook-ads-library": {
+      "command": "python",
+      "args": [
+        "./facebook-ads-library-mcp/src/mcp_server.py",
+        "--scrapecreators-api-key",
+        "9EZ8OP26FgdVfvozl2UXg566f1Y2"
+      ],
+      "disabled": false,
+      "autoApprove": []
+    },
+    "meta-ads-api": {
+      "command": "python",
+      "args": ["./meta-ads-mcp-server/src/mcp_server.py"],
+      "env": {
+        "META_APP_ID": "1237417401126987",
+        "META_APP_SECRET": "014087a6999b22626af83baa2cba4b41",
+        "META_ACCESS_TOKEN": "EAAHWhv6c7zEBOZCX2ZA2ZBOOHCeYW9oQZAcgtiFqWN9EZAVhIjGFRNHkd6pPHWDuf5GwFzRSzVuvwZCaOQ3idMvEmMZBd0VrvisCa9MiBxyRIekZC5RzHFmS11b0wbNv801N1tCjTZBEnAFM8XBdFoLEgyxL7Cf2sZABkmtqZAdZBpZALoZC8F0zAfAuJAOfHn0f6RLgZDZD",
+        "META_API_VERSION": "v22.0",
+        "LOG_LEVEL": "INFO"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "airtable": {
+      "command": "npx",
+      "args": ["-y", "@loticdigital/airtable-mcp-server"],
+      "env": {
+        "AIRTABLE_API_KEY": "patRkvc51i7cWvLAK.630b4b82a6380781be82159ab8c6a525ce302eda6354c49990403866bc520e9a"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

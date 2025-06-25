@@ -1,0 +1,13 @@
+{
+  "total_records": 20,
+  "accounts": [
+    "TurnedYellow",
+    "MakeMeJedi"
+  ],
+  "records_with_facebook_urls": 3,
+  "records_with_github_urls": 20,
+  "records_with_download_commands": 3,
+  "high_performers": 8,
+  "columns_included": 37,
+  "creation_date": "2025-06-24T12:46:02.362833"
+}

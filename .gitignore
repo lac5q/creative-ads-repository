@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv311/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup files
+backup_*/
+*_backup/
+
+# Large files (>100MB)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Sensitive files
+*.key
+*.pem
+config.json
+secrets.json
+
+# Reports (optional - you can commit these)
+*_Report_*.md
+*_report_*.csv

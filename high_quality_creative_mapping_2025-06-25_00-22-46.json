@@ -1,0 +1,84 @@
+[
+  {
+    "ad_name": "video: influencer David / Most incredible",
+    "ad_id": "120207192312690108",
+    "search_keys": [
+      "01_David_Influencer_WINNER",
+      "120207192312690108",
+      "david_influencer"
+    ],
+    "priority": "\ud83e\udd47 SCALE IMMEDIATELY",
+    "cvr": "11.11%",
+    "account": "TurnedYellow",
+    "creative_file": "TurnedYellow_120207192312690108_video_influencer_David__Most_incredible.jpg",
+    "quality": "HD",
+    "github_download_url": "https://github.com/lac5q/creative-ads-repository/raw/main/hd_ad_creatives/TurnedYellow_120207192312690108_video_influencer_David__Most_incredible.jpg",
+    "github_view_url": "https://github.com/lac5q/creative-ads-repository/blob/main/hd_ad_creatives/TurnedYellow_120207192312690108_video_influencer_David__Most_incredible.jpg",
+    "file_size_kb": 1.83,
+    "local_path": "hd_ad_creatives/TurnedYellow_120207192312690108_video_influencer_David__Most_incredible.jpg"
+  },
+  {
+    "ad_name": "TY Video 1 HIGH HOOK",
+    "ad_id": "120203668973120108",
+    "search_keys": [
+      "02_TY_Video_1_HIGH_HOOK",
+      "120203668973120108",
+      "ty_video_1"
+    ],
+    "priority": "\ud83e\udd47 HIGH PERFORMER",
+    "account": "TurnedYellow",
+    "creative_file": "TurnedYellow_120203668973120108_video_ty_video_1__Make_anyone_laugh.jpg",
+    "quality": "HD",
+    "github_download_url": "https://github.com/lac5q/creative-ads-repository/raw/main/hd_ad_creatives/TurnedYellow_120203668973120108_video_ty_video_1__Make_anyone_laugh.jpg",
+    "github_view_url": "https://github.com/lac5q/creative-ads-repository/blob/main/hd_ad_creatives/TurnedYellow_120203668973120108_video_ty_video_1__Make_anyone_laugh.jpg",
+    "file_size_kb": 1.88,
+    "local_path": "hd_ad_creatives/TurnedYellow_120203668973120108_video_ty_video_1__Make_anyone_laugh.jpg"
+  },
+  {
+    "ad_name": "Royal Inspo Hook STRONG",
+    "ad_id": "120208078493940108",
+    "search_keys": [
+      "03_Royal_Inspo_Hook_STRONG",
+      "120208078493940108",
+      "royal_inspo"
+    ],
+    "priority": "\ud83e\udd48 STRONG PERFORMER",
+    "account": "TurnedYellow",
+    "creative_file": "TurnedYellow_120208078493940108_video_Royal_inspo_hook_1__Looking_for_a.jpg",
+    "quality": "HD",
+    "github_download_url": "https://github.com/lac5q/creative-ads-repository/raw/main/hd_ad_creatives/TurnedYellow_120208078493940108_video_Royal_inspo_hook_1__Looking_for_a.jpg",
+    "github_view_url": "https://github.com/lac5q/creative-ads-repository/blob/main/hd_ad_creatives/TurnedYellow_120208078493940108_video_Royal_inspo_hook_1__Looking_for_a.jpg",
+    "file_size_kb": 1.66,
+    "local_path": "hd_ad_creatives/TurnedYellow_120208078493940108_video_Royal_inspo_hook_1__Looking_for_a.jpg"
+  },
+  {
+    "ad_name": "Bigfoot Jungle Vlog",
+    "search_keys": [
+      "04_Bigfoot_Jungle_Vlog",
+      "bigfoot_jungle"
+    ],
+    "priority": "\ud83e\udd49 GOOD PERFORMER",
+    "account": "TurnedYellow",
+    "creative_file": "04_Bigfoot_Jungle_Vlog_REAL_AD.jpg",
+    "quality": "Standard",
+    "github_download_url": "https://github.com/lac5q/creative-ads-repository/raw/main/creative-ads-repository/TurnedYellow/04_Bigfoot_Jungle_Vlog_REAL_AD.jpg",
+    "github_view_url": "https://github.com/lac5q/creative-ads-repository/blob/main/creative-ads-repository/TurnedYellow/04_Bigfoot_Jungle_Vlog_REAL_AD.jpg",
+    "file_size_kb": 2.08,
+    "local_path": "creative-ads-repository/TurnedYellow/04_Bigfoot_Jungle_Vlog_REAL_AD.jpg"
+  },
+  {
+    "ad_name": "Valentines Day Reaction",
+    "search_keys": [
+      "18_Valentines_Day_Reaction",
+      "valentines_reaction"
+    ],
+    "priority": "\ud83d\udc9d SEASONAL WINNER",
+    "account": "MakeMeJedi",
+    "creative_file": "18_Valentines_Day_Reaction_REAL_AD.png",
+    "quality": "High",
+    "github_download_url": "https://github.com/lac5q/creative-ads-repository/raw/main/sample_ad_creatives/18_Valentines_Day_Reaction_REAL_AD.png",
+    "github_view_url": "https://github.com/lac5q/creative-ads-repository/blob/main/sample_ad_creatives/18_Valentines_Day_Reaction_REAL_AD.png",
+    "file_size_kb": 22.36,
+    "local_path": "sample_ad_creatives/18_Valentines_Day_Reaction_REAL_AD.png"
+  }
+]

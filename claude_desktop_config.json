@@ -1,0 +1,58 @@
+{
+  "mcpServers": {
+    "ampersand-docs": {
+      "command": "npx",
+      "args": ["@amp-labs/mcp-docs-server@latest"],
+      "env": {}
+    },
+    "dataforseo": {
+      "command": "npx",
+      "args": ["@skobyn/mcp-dataforseo"],
+      "env": {
+        "DATAFORSEO_USERNAME": "luis@epiloguecapital.com",
+        "DATAFORSEO_PASSWORD": "2e0edaebcc9b3756"
+      }
+    },
+    "google-ads": {
+      "command": "python",
+      "args": ["/Users/lcalderon/Documents/GitHub/Marketing/google-ads-mcp/google_ads_mcp_server/server.py"],
+      "env": {
+        "GOOGLE_ADS_DEVELOPER_TOKEN": "",
+        "GOOGLE_ADS_CLIENT_ID": "",
+        "GOOGLE_ADS_CLIENT_SECRET": "",
+        "GOOGLE_ADS_REFRESH_TOKEN": "",
+        "GOOGLE_ADS_CUSTOMER_ID": "",
+        "GOOGLE_ADS_LOGIN_CUSTOMER_ID": "",
+        "APP_ENV": "dev"
+      }
+    },
+    "facebook-ads-library": {
+      "command": "python",
+      "args": [
+        "/Users/lcalderon/Documents/GitHub/Marketing/facebook-ads-library-mcp/src/mcp_server.py",
+        "--scrapecreators-api-key",
+        "9EZ8OP26FgdVfvozl2UXg566f1Y2"
+      ]
+    },
+    "meta-ads-api-full": {
+      "command": "python",
+      "args": ["/Users/lcalderon/Documents/GitHub/Marketing/meta-ads-mcp-server/src/mcp_server.py"],
+      "env": {
+        "META_ACCESS_TOKEN": "EAAHWhv6c7zEBOZCX2ZA2ZBOOHCeYW9oQZAcgtiFqWN9EZAVhIjGFRNHkd6pPHWDuf5GwFzRSzVuvwZCaOQ3idMvEmMZBd0VrvisCa9MiBxyRIekZC5RzHFmS11b0wbNv801N1tCjTZBEnAFM8XBdFoLEgyxL7Cf2sZABkmtqZAdZBpZALoZC8F0zAfAuJAOfHn0f6RLgZDZD",
+        "META_APP_ID": "your_facebook_app_id",
+        "META_APP_SECRET": "your_facebook_app_secret",
+        "META_DEFAULT_ACCOUNT_ID": "act_XXXXXXXXX",
+        "LOG_LEVEL": "INFO"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "apify": {
+      "command": "npx",
+      "args": ["-y", "@apify/actors-mcp-server"],
+      "env": {
+        "APIFY_TOKEN": "apify_api_wBKaTzShATZFohqVUL2FkFK2oEaBT40dPJie"
+      }
+    }
+  }
+} 

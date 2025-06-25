@@ -1,0 +1,19 @@
+Repository Clear Log
+==============================
+Date: 2025-06-25 00:40:41
+Files removed: 997
+Size cleared: 46.87 MB
+
+Directories processed:
+  - creative-ads-repository
+  - hd_ad_creatives
+  - large_ad_images
+  - sample_ad_creatives
+  - actual_turnedyellow_ads
+  - creative-ads-media
+  - video_creatives
+  - image_creatives
+  - carousel_creatives
+  - dynamic_creatives
+  - archive_creatives
+  - Root directory

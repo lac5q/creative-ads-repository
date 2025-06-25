@@ -1,0 +1,28 @@
+{
+  "name": "google-sheet-sharing-script",
+  "version": "1.0.0",
+  "description": "Script to share Google Sheets created by service account with specified users",
+  "main": "share-google-sheet.js",
+  "scripts": {
+    "share": "node share-google-sheet.js",
+    "share-all": "node share-google-sheet.js --all",
+    "help": "node share-google-sheet.js --help",
+    "install-deps": "npm install googleapis"
+  },
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  },
+  "keywords": [
+    "google-drive",
+    "google-sheets",
+    "sharing",
+    "permissions",
+    "service-account",
+    "google-api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
